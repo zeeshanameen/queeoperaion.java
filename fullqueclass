@@ -1,0 +1,16 @@
+import java.util.scanner
+public class isfull
+{
+public static void main (string args[])
+{
+scanner scan=new scanner(system.in)
+int bool isfull;
+int rear;
+int maxsize=-1;
+system.out.println("enter a queue")
+if(rear == maxsize -1)
+return true;
+else
+return false;
+}
+}
