@@ -1,0 +1,8 @@
+public class peek
+{
+public static void main(string []args)
+{
+int peek;
+system.out.println("return queu front"+ return qeue[front])
+}
+}
