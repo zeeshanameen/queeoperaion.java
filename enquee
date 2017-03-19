@@ -1,0 +1,17 @@
+import java.util.scanner
+public class isempty
+{
+public static void main (string args[])
+{
+scanner scan=new scanner(system.in)
+int bool enqeue;
+int rear;
+int isfull;
+system.out.println("enter a queue")
+if(isfull());
+return 0;
+rear=rear+1;
+qeue[rear]=data;
+return 1;
+}
+}
