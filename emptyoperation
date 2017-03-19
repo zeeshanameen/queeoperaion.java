@@ -1,0 +1,16 @@
+import java.util.scanner
+public class isempty
+{
+public static void main (string args[])
+{
+scanner scan=new scanner(system.in)
+int bool isempty;
+int rear;
+int front;
+system.out.println("enter a queue")
+if(rea < 0 || front > rear)
+return true;
+else
+return false;
+}
+}
